@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails truepool: production" uuid="aebf488c-cc09-4faf-af53-20cb7f5f95e7">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>truepool</user-name>
+    </data-source>
+    <data-source name="Rails truepool: development" uuid="1820c36f-145a-45a1-a997-1df42feb0bda">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>rails_dev</user-name>
+    </data-source>
+    <data-source name="Rails truepool: test" uuid="e7ea788e-7e1c-4c60-9b49-8607e89b0844">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>rails_dev</user-name>
+    </data-source>
+  </component>
+</project>
